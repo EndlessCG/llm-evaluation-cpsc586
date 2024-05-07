@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+datasets
+pymc==5.10.3
+arviz==0.17.0
+pytensor==2.18.6
+crowd-kit==1.2.1
